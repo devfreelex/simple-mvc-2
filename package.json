@@ -1,0 +1,12 @@
+{
+  "name": "teste-toro",
+  "version": "1.0.0",
+  "description": "Sistema para identificar ações que devem ser vendidas ou compradas",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Rocha (11)",
+  "license": "ISC"
+}
